@@ -1,0 +1,83 @@
+body {
+
+    line-height: 1.5;
+    background-color: #D7DCDB;
+    width: 500px;
+    margin: auto;
+
+
+}
+
+header {
+
+        position: fixed;
+        top: 0;
+        min-height: ;
+        display: flex;
+        padding: 0px 20px;
+    
+        justify-content: space-around;
+        align-items: center;
+        background-color: #eee
+
+}
+
+form {
+
+        background:rgba(213, 236, 77, 0.603);
+        padding: 2.5rem 2.5rem;
+        width: 500px;
+        margin: auto;
+
+}
+
+element.style {
+}
+.product > .level {
+    background-color: #ddd;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+div {
+    display: block;
+}
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.logo {
+    margin-top: 15px;
+    width: 100%;
+    position: relative;
+}
+
+nav {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 50px;
+}
+
+nav {
+    font-weight: 400;
+}
